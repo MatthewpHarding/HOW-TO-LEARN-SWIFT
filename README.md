@@ -1,6 +1,7 @@
 # Matthew Harding
-- 👋👋🏻👋🏿 Hi everyone. 
+👋👋🏻👋🏿 Hi everyone. 
 🧕🏻👨🏿‍💼👩🏼‍💼👩🏻‍💻👨🏼‍💼🧛🏻‍♀️👩🏼‍💻💁🏽‍♂️🕵🏻‍♂️🧝🏼‍♀️🦹🏼‍♀🧕🏾🧟‍♂️
+
 - my GitHub lessons → [@MatthewpHarding](https://github.com/MatthewpHarding). 
 - my Udemy courses → [Udemy.com](https://www.udemy.com/course/ios-masterclass/#instructor-1)
 - my LinkedIn profile → [Linked In](https://www.linkedin.com/in/mattpharding)
