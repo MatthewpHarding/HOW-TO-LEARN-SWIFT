@@ -49,3 +49,19 @@ Let's start with a basic philosophy; Move forwards every day. Tomorrow should be
 3. We are never *right* or *wrong*. Facts are facts. **Prove** how the system *works*.
 4. Swift .playground files provide quick answers
 5. Who taught you *how* to learn? What's the name of your teacher? 🤔 My **mentor** → [Jim Kwik](https://www.jimkwik.com/podcast/kwik-brain-001-learning-anything-faster)
+
+
+# 🤷🏼‍♂️
+
+Thanks 
+
+for reading
+
+@[MatthewpHarding](https://github.com/MatthewpHarding)
+
+*written for the `Swift` community*
+
+```Swift
+let myLife = [learning, coding, happiness] 
+```
+### 🧕🏻👨🏿‍💼👩🏼‍💼👩🏻‍💻👨🏼‍💼🧛🏻‍♀️👩🏼‍💻💁🏽‍♂️🕵🏻‍♂️🧝🏼‍♀️🦹🏼‍♀🧕🏾🧟‍♂️
