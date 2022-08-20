@@ -1,4 +1,4 @@
-# This GitHub Repo Has..👇
+#👇 About Our GitHub 👨‍💻👩🏻‍💻👨🏿‍💻 
 ![Swift](swift-logo.png)
 
 Swift v5.7 | [different versions](find-my-swift-version.md) | [Swift.org](https://docs.swift.org) 
@@ -10,12 +10,15 @@ Taken from the [official Swift documentation](https://docs.swift.org/swift-book/
 ## 🔍 Searchable Swift Documentation
 
 Each section of the official Swift documentation has been converted to:
+  
   * 👉 1 README.md `markdown` file. (It's easier to read).
   * 👉🏿 1 Swift Xciode .playground file that's editable and executable.
 
 - 🕊 All official documentation begins with `SWIFTDOCS`. [Try it](https://github.com/MatthewpHarding?tab=repositories&q=SWIFTDOCS).
 
 ## 🔍 Simplified Swift Documentation
+We are in the process of duplicating the official Swift docs, refactoring them and simplifying the examples. This should make it easier for our students to learn Swift faster and easier!
+
 ```Swift
 // 🚧👷👷👷🏿‍♀️🚧
 // This service / feature is under construction
