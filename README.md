@@ -1,31 +1,28 @@
-#👇 About Our GitHub 👨‍💻👩🏻‍💻👨🏿‍💻 
 ![Swift](swift-logo.png)
 
 Swift v5.7 | [different versions](find-my-swift-version.md) | [Swift.org](https://docs.swift.org) 
 
-Taken from the [official Swift documentation](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html).
+Sources taken from the [official Swift documentation](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html).
 
-✔️ Editable Swift Xcode .playground files included.
+# 👇 This GitHub Account 👨‍💻👩🏻‍💻👨🏿‍💻
 
-## 🔍 Searchable Swift Documentation
+✔️ Editable Swift Xcode .playground files included in each repo.
 
-Each section of the official Swift documentation has been converted to:
-  
-  * 👉 1 README.md `markdown` file. (It's easier to read).
-  * 👉🏿 1 Swift Xciode .playground file that's editable and executable.
+✔️ 🔍 Searchable Swift Documentation
 
-- 🕊 All official documentation begins with `SWIFTDOCS`. [Try it](https://github.com/MatthewpHarding?tab=repositories&q=SWIFTDOCS).
+✔️ 🕊 All official documentation begins with `SWIFTDOCS`. [Try it](https://github.com/MatthewpHarding?tab=repositories&q=SWIFTDOCS).
 
-## 🔍 Simplified Swift Documentation
-We are in the process of duplicating the official Swift docs, refactoring them and simplifying the examples. This should make it easier for our students to learn Swift faster and easier!
+✔️ 🔍 Simplified Swift Documentation *(in progress)*
 
-```Swift
-// 🚧👷👷👷🏿‍♀️🚧
-// This service / feature is under construction
-// 😃
-// We aim to simplifiy the docs to make it easier to learn! 🎉
-```
-- 🕊 All simplified documentation begins with `SIMPLDOCS`. [Try it](https://github.com/MatthewpHarding?tab=repositories&q=SIMPLDOCS).
+✔️ 🕊 All simplified documentation begins with `SIMPLDOCS`. [Try it](https://github.com/MatthewpHarding?tab=repositories&q=SIMPLDOCS).
+
+    
+    // 🚧👷👷👷🏿‍♀️🚧
+    // The SIMPLDOCS feature is under construction
+    // 😃
+    // We aim to simplifiy Swift documentation and make it easier to learn! 👩🏽‍💻
+    
+
 
 # 🤷🏼‍♂️ A Little About Me
 👋👋🏻👋🏿 Hi everyone. 
