@@ -50,11 +50,12 @@ I've been developing iOS apps since the first ever release (2008) and have an en
 
 ## Some Quick Tips 💡
 1. Study the Swift programming language
-2. Learn the 
-2. Low quality developers get upset in code review (PRs) - high quality developers welcome useful comments
-3. We are never *right* or *wrong*. Facts are facts. **Prove** how the system *works*.
-4. Swift .playground files provide quick answers
-5. Who taught you *how* to learn? What's the name of your teacher? 🤔 My **mentor** → [Jim Kwik](https://www.jimkwik.com/podcast/kwik-brain-001-learning-anything-faster)
+2. Learn the language first
+3. Learn how to build apps second
+4. Learn by writing your own tutorials inside Xcode .playground files
+5. Set monthly goals to learn `x` by date `y`
+6. Aim to write a complete tutorial (.md files & .playground files) by your set goal
+7. Place the tutorial up on your GitHub account (create one) for others to learn too 👍
 
 ## My Branded Footer
 Taken from **official Swift** documentation found [here ](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html).
@@ -65,7 +66,7 @@ Taken from **official Swift** documentation found [here ](https://docs.swift.org
 
 - 🕊 All simplified documentation begins with `SIMPLDOCS`. [Try it](https://github.com/MatthewpHarding?tab=repositories&q=SIMPLDOCS).
 
-- Try our free mini-course:
+- Try our free tour of Swift:
 👉 [A Guided Tour of Swift](https://github.com/MatthewpHarding/a-tour-of-swift) 
 
 # 🤷🏼‍♂️
