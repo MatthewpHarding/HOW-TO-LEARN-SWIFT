@@ -8,7 +8,7 @@ Sources taken from the [official Swift documentation](https://docs.swift.org/swi
 
 ✔️ 🧑🏼‍🏫 We teach the Swift programming language
 
-✔️ 🔍 We made the official Swift documentation searchable just for you!
+✔️ 🔍 We made the official Swift documentation searchable just for you! [Try it](https://github.com/MatthewpHarding?tab=repositories&q=SWIFTDOCS+hello+world)
 
 ✔️ 🕊 Just search inside this user account. All official documentation begins with `SWIFTDOCS`. [Try it](https://github.com/MatthewpHarding?tab=repositories&q=SWIFTDOCS).
 
