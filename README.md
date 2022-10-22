@@ -4,9 +4,9 @@ Swift v5.7 | [different versions](find-my-swift-version.md) | [Swift.org](https:
 
 Sources taken from the [official Swift documentation](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html).
 
-# 👇 READ ME 👨‍💻👩🏻‍💻👨🏿‍💻
+# 👇 READ ME
 
-✔️ We teach the Swift programming language
+✔️ 🧑🏼‍🏫 We teach the Swift programming language
 
 ✔️ 🔍 We made the official Swift documentation searchable just for you!
 
@@ -17,11 +17,11 @@ Sources taken from the [official Swift documentation](https://docs.swift.org/swi
   
 
 # 🧑🏼‍💻 About The Instructor 
-👋👋🏻👋🏿 Hi everyone. 
-🧕🏻👨🏿‍💼👩🏼‍💼👩🏻‍💻👨🏼‍💼🧛🏻‍♀️👩🏼‍💻💁🏽‍♂️🕵🏻‍♂️🧝🏼‍♀️🦹🏼‍♀🧕🏾🧟‍♂️
+👋👋🏻👋🏿 Hi everyone,
 
-## My iOS Development Career
 I've been developing iOS apps since the first ever release (2008) and have an enormous amount of experience. I hope I can share this information passing tips & tricks on to the next generation. I've had my career - **it's time for yours!**
+
+🧕🏻👨🏿‍💼👩🏼‍💼👩🏻‍💻👨🏼‍💼🧛🏻‍♀️👩🏼‍💻💁🏽‍♂️🕵🏻‍♂️🧝🏼‍♀️🦹🏼‍♀🧕🏾🧟‍♂️
 
 ## My Career Achievements 
 * Invited to Apple HQ to work on a secret project
