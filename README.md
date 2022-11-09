@@ -17,13 +17,13 @@ To try and help you learn faster:
 * Our GitHub contains the official Swift documentation converted into markdown files, making it searchable - [Try it](https://github.com/MatthewpHarding?tab=repositories&q=SWIFTDOCS+hello+world).
 
 # 🧑🏼‍💻 About The Instructor 
-👋👋🏻👋🏿 Hi everyone,
-
-I've been developing iOS apps since the first ever release (2008) and have an enormous amount of experience. I hope I can share this information passing tips & tricks on to the next generation. I've had my career - **it's time for yours!**
+>👋👋🏻👋🏿 Hi everyone,
+>
+>I've been developing iOS apps since the first ever release (2008) and have an enormous amount of experience. I hope I can share this information passing tips & tricks on to the next generation. I've had my career - **it's time for yours!**
 
 🧕🏻👨🏿‍💼👩🏼‍💼👩🏻‍💻👨🏼‍💼🧛🏻‍♀️👩🏼‍💻💁🏽‍♂️🕵🏻‍♂️🧝🏼‍♀️🦹🏼‍♀🧕🏾🧟‍♂️
 
-## My Career Achievements 
+## Matts Career Achievements 
 * Invited to Apple HQ to work on a secret project
 * Developer behind the 10 billionth download app on AppStore
 * Substantially increased profits for London based financial companies
