@@ -16,12 +16,10 @@ To try and help you learn faster:
 * Our GitHub contains Swift playgrounds converting the official Swift documentation into executable examples. [Try it](https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics/archive/refs/heads/main.zip). 👈
 * Our GitHub contains the official Swift documentation converted into markdown files, making it searchable - [Try it](https://github.com/MatthewpHarding?tab=repositories&q=SWIFTDOCS+hello+world).
 
-# 🧑🏼‍💻 About The Instructor 
+# 🧑🏼‍💻 About Our Instructor, Matt
 >👋👋🏻👋🏿 Hi everyone,
 >
 >I've been developing iOS apps since the first ever release (2008) and have an enormous amount of experience. I hope I can share this information passing tips & tricks on to the next generation. I've had my career - **it's time for yours!**
-
-🧕🏻👨🏿‍💼👩🏼‍💼👩🏻‍💻👨🏼‍💼🧛🏻‍♀️👩🏼‍💻💁🏽‍♂️🕵🏻‍♂️🧝🏼‍♀️🦹🏼‍♀🧕🏾🧟‍♂️
 
 ## Matts Career Achievements 
 * Invited to Apple HQ to work on a secret project
