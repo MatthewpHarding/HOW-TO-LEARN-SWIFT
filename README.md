@@ -4,17 +4,17 @@ Swift v5.7 | [different versions](find-my-swift-version.md) | [Swift.org](https:
 
 Sources taken from the [official Swift documentation](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html).
 
-# 👇 READ ME
+# 👨🏿‍💻🧑🏻‍💻👩🏾‍💻 HOW TO LEARN SWIFT
+Swift has a lot of features, but the basics can be learned fast! Write as much code as you can learning the foundational concepts first and practicing mixing them together at every opportunity.
 
-✔️ 🧑🏼‍🏫 We teach the Swift programming language
+To try and help you learn faster:
 
-✔️ 🔍 We made the official Swift documentation searchable just for you! [Try it](https://github.com/MatthewpHarding?tab=repositories&q=SWIFTDOCS+hello+world)
-
-✔️ 🕊 Just search inside this user account. All official documentation begins with `SWIFTDOCS`. [Try it](https://github.com/MatthewpHarding?tab=repositories&q=SWIFTDOCS).
-
-✔️ 🕊 We focus on creating online courses on Udemy.com to teach Swift to junior developers. [Try it](https://www.udemy.com/user/iosbfree).
-
-  
+* Our courses are created from the official Swift documentation simplifying it for fast learning. [Try it](https://www.udemy.com/user/iosbfree).
+* Our courses are interactive from the start. [Try it](https://www.udemy.com/user/iosbfree).
+* Lessons are provided within an editable and interactable Swift playground. [Try it](https://www.udemy.com/user/iosbfree).
+* Lessons are run within Xcode - the tool proffessionals use to write apps!
+* Our GitHub contains Swift playgrounds converting the official Swift documentation into executable examples. [Try it](https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics/archive/refs/heads/main.zip). 👈
+* Our GitHub contains the official Swift documentation converted into markdown files, making it searchable - [Try it](https://github.com/MatthewpHarding?tab=repositories&q=SWIFTDOCS+hello+world).
 
 # 🧑🏼‍💻 About The Instructor 
 👋👋🏻👋🏿 Hi everyone,
