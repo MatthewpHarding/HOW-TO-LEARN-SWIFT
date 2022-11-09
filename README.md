@@ -16,12 +16,12 @@ To try and help you learn faster:
 * Our GitHub contains Swift playgrounds converting the official Swift documentation into executable examples. [Try it](https://github.com/MatthewpHarding/SWIFTDOCS-1-the-basics/archive/refs/heads/main.zip). 👈
 * Our GitHub contains the official Swift documentation converted into markdown files, making it searchable - [Try it](https://github.com/MatthewpHarding?tab=repositories&q=SWIFTDOCS+hello+world).
 
-# 🧑🏼‍💻 About Our Instructor, Matt
+## About Our Instructor, Matt 🧑🏼‍💻
 >👋👋🏻👋🏿 Hi everyone,
 >
 >I've been developing iOS apps since the first ever release (2008) and have an enormous amount of experience. I hope I can share this information passing tips & tricks on to the next generation. I've had my career - **it's time for yours!**
 
-## Matts Career Achievements 
+## Matts Career Achievements 🧑🏼‍🔧
 * Invited to Apple HQ to work on a secret project
 * Developer behind the 10 billionth download app on AppStore
 * Substantially increased profits for London based financial companies
@@ -38,7 +38,7 @@ To try and help you learn faster:
 6. Aim to write a complete tutorial (.md files & .playground files) by your set goal
 7. Place the tutorial up on your GitHub account (create one) for others to learn too 👍
 
-## Our Services
+## Our Services 👨🏼‍🚒
 We made the official Swift documentation searchable. [Try it](https://github.com/MatthewpHarding?tab=repositories&q=SWIFTDOCS+hello+world). Our aim is to optimise career growth for juniors learning iOS by teaching Swift via our online courses. We have taken the official Swift documentation and **simplified it** for fast learning. 😎
 
 💡 **Top Tip**: During an iOS interview they'll ask questions about Swift, not iOS! To BOOST 🚀 your career forwards become an expert of the Swift language.
